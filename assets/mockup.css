@@ -30,3 +30,5 @@
 .contact-actions .button.primary:hover{background:#264d45;color:#fff}
 body.platform-mockup :focus-visible{outline-color:var(--copper)}
 body.platform-mockup .v8-highlight{outline-color:var(--copper)!important}
+
+.link-icon{display:inline-block;width:1em;height:1em;flex:0 0 1em;margin-left:.35em;vertical-align:-.12em}.icon-up{transform:rotate(180deg)}.icon-right{transform:rotate(-90deg)}.association>.link-icon{align-self:center;margin-top:8px}
